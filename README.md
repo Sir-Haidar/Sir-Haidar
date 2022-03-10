@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-family:Arial Narrow;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
+<h1 align="center" style="font-family:Arial Narrow; font-variant:small-caps;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
 <h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
 
 ## 🙋‍♂️ About Me
