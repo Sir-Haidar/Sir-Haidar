@@ -1,6 +1,6 @@
 
-
-<h1 align="center" style="font-family:Arial Narrow; color:blue;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
+<img src="Haidar.jpg" alt="Sir-Haidar">
+<h1 align="center" style="font-variant:small-caps;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
 <h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
 <h3 style="font-variant:small-caps;">Programming is not easy and it is not everyone’s cup of tea. There is nothing impossible for the programmers <br><center> because they know how to create whatever we can think of.</center>
 
