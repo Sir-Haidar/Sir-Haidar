@@ -1,8 +1,8 @@
 
 <img src="SIR HAIDAR.jpg" alt="Sir-Haidar">
-<h1 align="center" style="font-variant:small-caps;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
+<h1 align="center" style="font-variant:small-caps;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar  |  L U C I P E R)  </h1>
 <h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
-<h3 style="font-variant:small-caps;">Programming is not easy and it is not everyone’s cup of tea. There is nothing impossible for the programmers <br><center> because they know how to create whatever we can think of.</ce nter>
+<h3 style="font-variant:small-caps;">Programming is more than writing lines of code, it’s the art of giving thought a structure, and imagination a machine to live in. It’s the discipline of turning chaos into logic, and logic into creation. Every algorithm whispers a story of precision; every bug teaches patience; every success builds resilience. In the world of code, there are no shortcuts, only layers of understanding waiting to be unfolded. True programmers don’t just solve problems; they architect worlds, one function at a time.</center>
 
 </h3>
 
