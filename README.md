@@ -2,20 +2,73 @@
 <img src="SIR HAIDAR.jpg" alt="Sir-Haidar">
 <h1 align="center" style="font-variant:small-caps;">Hey There!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Haidar Umar Bose (Sir Haidar)  </h1>
 <h3 align="center">I'm a passionate programmer from Gombe Nigeria.</h3>
-<h3 style="font-variant:small-caps;">Programming is not easy and it is not everyone’s cup of tea. There is nothing impossible for the programmers <br><center> because they know how to create whatever we can think of.</center>
+<h3 style="font-variant:small-caps;">Programming is not easy and it is not everyone’s cup of tea. There is nothing impossible for the programmers <br><center> because they know how to create whatever we can think of.</ce nter>
 
 </h3>
 
-## 🙋‍♂️ About Me
+<h1 align="center">🦁 L U C I P E R</h1>
+<h3 align="center">💻 Student | Software Developer | IT Specialist | Founder @CodeLion Tech</h3>
 
-- 🌱 I’m currently learning **Back-End Programming Language {Javascript} **
+---
 
-- 👯 I’m looking to collaborate on **open source project**
+### 🌟 About Me
+💡 Passionate about transforming ideas into digital solutions.  
+🎓 Student at *Gombe State University (GSU)* — studying *Hardware Maintenance & Software Development*.  
+💼 Founder of *CodeLion Tech*, a rising innovation brand driven by logic and precision.  
+⚙ Skilled in *Backend & Frontend Development, **Database Management, and **IT Infrastructure*.  
+💬 Motto: *“Invisible in presence, invincible in logic.”*
 
-- 🤝 I’m looking for help with 
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sir-Haidar](https://github.com/Sir-Haidar)
+### 🧰 Tech Stack
+💻 *Languages:* C++, JavaScript, PHP, Python, SQL  
+🌐 *Web:* HTML, CSS, Bootstrap, React  
+🛠 *Tools & Platforms:* Git, GitHub, VS Code, XAMPP, Node.js  
+🗄 *Databases:* MySQL, SQLite, MongoDB (basic)  
+☁ *Others:* API integration, System Maintenance, Network Troubleshooting  
 
+---
+
+### 🧠 Currently Learning
+- Advanced *PHP & Laravel Framework*  
+- *JavaScript (ES6+)* and *React.js*  
+- *Cloud Computing* and *Server Administration*  
+
+---
+
+### 🤝 Open to Collaborate On
+- *Open-source projects* that solve real-life problems  
+- *Educational or tech community initiatives*  
+- *Startup tech development* (especially EdTech & Automation)  
+
+---
+
+### ⚡ Fun Fact
+> “When my computer is with me, anything can happen.” 😎  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SirHaidar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SirHaidar&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="mailto:sirhaidarubose01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SirHaidar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🦁 “Built with passion. Run by purpose. Maintained by consistency.”
 ![](https://activity-graph.herokuapp.com/graph?username=Sir-Haidar&theme=react-dark&hide_border=true&area=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sir-Haidar" alt="Sir-Haidar" /></a> </p>
